@@ -2,7 +2,11 @@
 
 ## `Git:` Git is a DevOps tool used for source code management. It is a free and open-source version control system used to handle small to very large projects efficiently. Git is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development.
 
+## `গিট:` গিট হল একটি DevOps টুল যা সোর্স কোড পরিচালনার জন্য ব্যবহৃত হয়। এটি একটি মুক্ত এবং ওপেন-সোর্স সংস্করণ নিয়ন্ত্রণ ব্যবস্থা যা ছোট থেকে খুব বড় প্রকল্পগুলিকে দক্ষতার সাথে পরিচালনা করতে ব্যবহৃত হয়। গিট সোর্স কোডের পরিবর্তনগুলি ট্র্যাক করতে ব্যবহৃত হয়, একাধিক বিকাশকারীকে নন-লিনিয়ার ডেভেলপমেন্টে একসাথে কাজ করতে সক্ষম করে
+
 ## `Github:` GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. It's used for storing, tracking, and collaborating on software projects.
+
+## `গিটহাব:` গিটহাব সংস্করণ নিয়ন্ত্রণ এবং সহযোগিতার জন্য একটি কোড হোস্টিং প্ল্যাটফর্ম। এটি আপনাকে এবং অন্যদেরকে যে কোনো জায়গা থেকে প্রকল্পে একসঙ্গে কাজ করতে দেয়। এটি সফ্টওয়্যার প্রকল্পগুলিতে সঞ্চয়, ট্র্যাকিং এবং সহযোগিতার জন্য ব্যবহৃত হয়
 
 <table>
   <thead>
